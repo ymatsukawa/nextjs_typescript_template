@@ -1,4 +1,4 @@
-# nextjs template
+# nextjs typescript template
 
 ## Requirements
 
